@@ -1,4 +1,0 @@
-keyboard
-requests
-opencv-python
-pygame

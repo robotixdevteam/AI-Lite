@@ -1,2 +1,0 @@
-0 GREEN
-1 RED
