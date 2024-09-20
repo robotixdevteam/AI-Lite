@@ -142,7 +142,33 @@ Once connected, you can start building your app by dragging and dropping compone
 - **Objective**: The pedometer feature enables AILite to follow the user's walking motion; when the user starts walking, AILite initiates movement, and when the user stops, AILite halts as well. Additionally, it tracks the number of steps taken, distance covered, and elapsed time during the activity.
 - **aia file**:[WorkoutBuddy-Pedometer](https://github.com/marreddyanuhya/AILITE-MIT-APPLICATIONS/blob/main/MIT%20APP%20APPLICATIONS%20FINAL/Workout%20Buddy%20-%20Pedometer.aia)
 
+## Types of construction
+## 2-Wheel Construction
 
+The 2-wheel construction is a popular and widely used design in AILite projects. It is favored for its simplicity, agility, and versatility, making it suitable for a broad range of applications. This design features two wheels driven by motors, allowing for straightforward movement and maneuverability. The 2-wheel version is especially well-suited for projects that require quick directional changes, precise navigation, and efficient use of space.
+
+Key Features:
+Versatility: The 2-wheel construction can be applied to a wide variety of projects, ranging from basic robotics to more complex automation tasks.
+Agility: With only two wheels, this design allows for easy turning and swift movement, making it ideal for navigating tight spaces and performing tasks that require quick adjustments.
+Simplicity: The design is simple, making it easier to build, maintain, and modify for different project needs.
+
+## 4-Wheel Construction
+
+The 4-wheel construction in AILite provides a more stable and robust platform, which is particularly advisable for projects involving color sensors and other sensor-based applications. While the same projects that can be performed with the 2-wheel version can also be executed with the 4-wheel version, the latter offers added stability and support, which is crucial for certain types of sensor-based tasks.
+
+Key Features:
+Stability: The 4-wheel design offers greater stability, reducing the risk of tipping or imbalance, especially when navigating uneven terrain or carrying additional sensors and equipment.
+Enhanced Sensor Performance: For color sensor-based projects, the 4-wheel construction provides a steadier platform, ensuring more accurate sensor readings and reliable performance.
+Adaptability: Although more complex than the 2-wheel version, the 4-wheel construction can handle the same range of projects, with the added benefit of increased stability and sensor integration.
+
+## Various Execution Options for AILite
+
+In addition to Python, AILite projects can also be developed using MIT App Inventor, a powerful and user-friendly platform for creating mobile applications. MIT App Inventor allows users to design and implement projects through a visual programming interface, making it accessible to those who may not be familiar with traditional coding. Kindly refer the follwing link for more information.
+
+
+## Contact
+
+- Contact us via [Email](mailto:development@merituseducation.com)
 
 
 
