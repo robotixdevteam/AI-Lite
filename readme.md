@@ -181,21 +181,12 @@ This script allows you to control a bot using keyboard inputs. You can use arrow
 This Python application allows users to control a robot through voice commands, leveraging advanced speech recognition and decision-making model integration. It is particularly designed for interactive scenarios where voice input can dictate robot actions.<br>
 [Click here to know more](https://github.com/vishnuj1999/AiLIte_python_projects/tree/main/20_AiLite_Chatbot)
 
-# 21. Binar Digits 
-
-This Python script allows you to control a robot using data from Touch sensor. It sends HTTP GET requests to the robot to navigate it based on the sensor data received.<br>
-[Click here to know more](https://github.com/vishnuj1999/AiLIte_python_projects/tree/main/21_Binar_Digits)
-# 22. Morse code 
-
-This Python script allows you to control a robot using data from Touch sensor. It sends HTTP GET requests to the robot to navigate it based on the sensor data received.<br>
-[Click here to know more](https://github.com/vishnuj1999/AiLIte_python_projects/tree/main/22_Morse_code)
-
-# 23. Pattern Drawing 
+# 21. Pattern Drawing 
 
 This Python script allows bot to draw a pattern. It sends HTTP GET requests to the robot to navigate it based on the sensor data received.<br>
 [Click here to know more](https://github.com/vishnuj1999/AiLIte_python_projects/tree/main/23_Pattern_Drawing)
 
-# 24. Go Stop 
+# 22. Go Stop 
 
 This Python script allows you to control a robot using data from Color sensor. It sends HTTP GET requests to the robot to navigate it based on the sensor data received.<br>
 [Click here to know more](https://github.com/vishnuj1999/AiLIte_python_projects/tree/main/24_Go_Stop)
