@@ -11,7 +11,7 @@ AILite is a cutting-edge autonomous robot that uses Python as its primary progra
 For more details visit 
 https://github.com/robotixdevteam/AI-Lite/tree/Python
 
-# AI-Lite using MIT App
+# AILite using MIT App
 
 AILite can be controlled and programmed using MIT App Inventor, a visual programming tool that allows users to create mobile apps. By connecting AiLite to the MIT App Inventor interface, users can design and develop custom projects that interact with the robot, utilizing its various sensors and capabilities. 
 For more details visit 
