@@ -142,8 +142,8 @@ Once connected, you can start building your app by dragging and dropping compone
 - **Objective**: The pedometer feature enables AILite to follow the user's walking motion; when the user starts walking, AILite initiates movement, and when the user stops, AILite halts as well. Additionally, it tracks the number of steps taken, distance covered, and elapsed time during the activity.
 - **aia file**:[WorkoutBuddy-Pedometer](https://github.com/marreddyanuhya/AILITE-MIT-APPLICATIONS/blob/main/MIT%20APP%20APPLICATIONS%20FINAL/Workout%20Buddy%20-%20Pedometer.aia)
 
-### Types of construction
-## 2-Wheel Construction
+## Types of construction
+### 2-Wheel Construction
 
 The 2-wheel construction is a popular and widely used design in AILite projects. It is favored for its simplicity, agility, and versatility, making it suitable for a broad range of applications. This design features two wheels driven by motors, allowing for straightforward movement and maneuverability. The 2-wheel version is especially well-suited for projects that require quick directional changes, precise navigation, and efficient use of space.
 
@@ -152,7 +152,7 @@ Versatility: The 2-wheel construction can be applied to a wide variety of projec
 Agility: With only two wheels, this design allows for easy turning and swift movement, making it ideal for navigating tight spaces and performing tasks that require quick adjustments.
 Simplicity: The design is simple, making it easier to build, maintain, and modify for different project needs.
 
-## 4-Wheel Construction
+### 4-Wheel Construction
 
 The 4-wheel construction in AILite provides a more stable and robust platform, which is particularly advisable for projects involving color sensors and other sensor-based applications. While the same projects that can be performed with the 2-wheel version can also be executed with the 4-wheel version, the latter offers added stability and support, which is crucial for certain types of sensor-based tasks.
 
