@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-<img width="30%" src="AILITE IMAGES/AILITE IMAGE/AILITE LOGO.png" />
+<img width="30%" src="AILITE IMAGE/AILITE LOGO.png" />
 </p>
 
 
