@@ -14,9 +14,12 @@ You can download the repository as a [zip file](https://github.com/marreddyanuhy
 
 ## Setting up the Local Connection
 Enable Wi-Fi on your laptop, Pc or Mobile phone.
-Turn on the AILite bot, which functions as a hotspot. Connect to the network by entering the following details:
--Wi-Fi Name: AILITE-<unique-ID> (e.g., AILITE-1069)
--Wi-Fi Password: 123456789
+Turn on the AILite bot, which functions as a hotspot. 
+
+### Connect to the network by entering the following details:
+  -Wi-Fi Name: AILITE-<unique-ID> (e.g., AILITE-1069)
+  
+  -Wi-Fi Password: 123456789
 
 ## Accessing the Unique URL for each AILite Bot:
 Open a web browser and enter the following URL to access the AILite bot:
