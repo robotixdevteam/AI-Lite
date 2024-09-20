@@ -3,7 +3,7 @@
     <img width="40%" src="AiLite.JPG" />
 </p>
 <p align="center" width="80%">
-    <img width="40%" src="AiLite.JPG" />
+    <img width="40%" src="AiLite_4_wheel.png" />
 </p>
 
 AILite is a cutting-edge autonomous robot designed for a wide range of applications. With its sophisticated four-wheel drive system, integrated camera, ultrasonic sensors, IR sensor, color sensor, and touch sensor, AILite is capable of navigating complex environments with precision and intelligence.
