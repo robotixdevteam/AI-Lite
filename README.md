@@ -142,7 +142,7 @@ Once connected, you can start building your app by dragging and dropping compone
 - **Objective**: The pedometer feature enables AILite to follow the user's walking motion; when the user starts walking, AILite initiates movement, and when the user stops, AILite halts as well. Additionally, it tracks the number of steps taken, distance covered, and elapsed time during the activity.
 - **aia file**:[WorkoutBuddy-Pedometer](https://github.com/marreddyanuhya/AILITE-MIT-APPLICATIONS/blob/main/MIT%20APP%20APPLICATIONS%20FINAL/Workout%20Buddy%20-%20Pedometer.aia)
 
-## Types of construction
+### Types of construction
 ## 2-Wheel Construction
 
 The 2-wheel construction is a popular and widely used design in AILite projects. It is favored for its simplicity, agility, and versatility, making it suitable for a broad range of applications. This design features two wheels driven by motors, allowing for straightforward movement and maneuverability. The 2-wheel version is especially well-suited for projects that require quick directional changes, precise navigation, and efficient use of space.
@@ -163,7 +163,7 @@ Adaptability: Although more complex than the 2-wheel version, the 4-wheel constr
 
 ## Various Execution Options for AILite
 
-In addition to Python, AILite projects can also be developed using MIT App Inventor, a powerful and user-friendly platform for creating mobile applications. MIT App Inventor allows users to design and implement projects through a visual programming interface, making it accessible to those who may not be familiar with traditional coding. Kindly refer the follwing link for more information.
+In addition to MIT App Inventor, AILite projects can also be developed using Python, a powerful and user-friendly platform for creating mobile applications. MIT App Inventor allows users to design and implement projects through a visual programming interface, making it accessible to those who may not be familiar with traditional coding. Kindly refer the following link for more information.
 
 
 ## Contact
