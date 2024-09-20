@@ -12,6 +12,19 @@
 ## Get the Source Code
 You can download the repository as a [zip file](https://github.com/marreddyanuhya/AILITE-MIT-APPLICATIONS/archive/refs/heads/main.zip) and extract it into a folder of your choice.
 
+## Setting up the Local Connection
+Enable Wi-Fi on your laptop, Pc or Mobile phone.
+Turn on the AILite bot, which functions as a hotspot. Connect to the network by entering the following details:
+Wi-Fi Name: AILITE-<unique-ID> (e.g., AILITE-1069)
+Wi-Fi Password: 123456789
+
+## Accessing the Unique URL for each AILite Bot:
+Open a web browser and enter the following URL to access the AILite bot:
+
+URL format: 192.168.{bot_number}.10
+Example: For AILITE-1069, the last two digits (69) are inverted to form the bot number (96), so the URL would be:
+192.168.96.10
+
 ## Table of Contents
 -[MIT App Inventor Installation](#MIT-App-Inventor-Installation)
 
