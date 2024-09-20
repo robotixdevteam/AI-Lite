@@ -3,7 +3,7 @@
     <img width="40%" src="Ailite_img.png" />
 </p>
 
-AILite is a cutting-edge autonomous robot designed for a wide range of applications. With its sophisticated four-wheel drive system, integrated camera, ultrasonic sensors, IR sensor, color sensor, and touch sensor, AI-Lite is capable of navigating complex environments with precision and intelligence.
+AILite is a cutting-edge autonomous robot designed for a wide range of applications. With its sophisticated four-wheel drive system, integrated camera, ultrasonic sensors, IR sensor, color sensor, and touch sensor, AILite is capable of navigating complex environments with precision and intelligence.
 
 # AILite using Python
 
