@@ -1,9 +1,6 @@
-# AI-Lite
+# AILite
 <p align="center" width="80%">
-    <img width="40%" src="AiLite.JPG" />
-</p>
-<p align="center" width="80%">
-    <img width="40%" src="AiLite_4_wheel.png" />
+    <img width="40%" src="Ailite_img.png" />
 </p>
 
 AI-Lite is a cutting-edge autonomous robot designed for a wide range of applications. With its sophisticated four-wheel drive system, integrated camera, ultrasonic sensors, IR sensor, color sensor, and touch sensor, AI-Lite is capable of navigating complex environments with precision and intelligence.
